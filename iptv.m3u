@@ -1,0 +1,106 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:1 group-title="IPTV" tvg-id="iptv/a2z" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", A2Z
+http://data.enics.cloud:9999/stream/iptv/a2z/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:2 group-title="IPTV" tvg-id="iptv/animax" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", ANIMAX
+http://data.enics.cloud:9999/stream/iptv/animax/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:3 group-title="IPTV" tvg-id="iptv/axn" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", AXN
+http://data.enics.cloud:9999/stream/iptv/axn/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:4 group-title="IPTV" tvg-id="iptv/boomerang" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", BOOMERANG
+http://data.enics.cloud:9999/stream/iptv/boomerang/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:5 group-title="IPTV" tvg-id="iptv/buko" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", BUKO
+http://data.enics.cloud:9999/stream/iptv/buko/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:6 group-title="IPTV" tvg-id="iptv/cartoonnetwork" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", CARTOON NETWORK
+http://data.enics.cloud:9999/stream/iptv/cartoonnetwork/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:7 group-title="IPTV" tvg-id="iptv/disneychannel" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", DISNEY CHANNEL
+http://data.enics.cloud:9999/stream/iptv/disneychannel/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:8 group-title="IPTV" tvg-id="iptv/disneyxd" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", DISNEY XD
+http://data.enics.cloud:9999/stream/iptv/disneyxd/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:9 group-title="IPTV" tvg-id="iptv/dreamworkshd" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", DREAMWORKS HD
+http://data.enics.cloud:9999/stream/iptv/dreamworkshd/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:10 group-title="IPTV" tvg-id="iptv/dreamworkstagalog" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", DREAMWORKS TAGALOG
+http://data.enics.cloud:9999/stream/iptv/dreamworkstagalog/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:11 group-title="IPTV" tvg-id="iptv/gma" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", GMA
+http://data.enics.cloud:9999/stream/iptv/gma/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:12 group-title="IPTV" tvg-id="iptv/gtv" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", GTV
+http://data.enics.cloud:9999/stream/iptv/gtv/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:12 group-title="IPTV" tvg-id="iptv/gtv" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", HEART OF ASIA
+http://data.enics.cloud:9999/stream/iptv/heartofasia/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:13 group-title="IPTV" tvg-id="iptv/hbo" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", HBO
+http://data.enics.cloud:9999/stream/iptv/hbo/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:14 group-title="IPTV" tvg-id="iptv/hbofamily" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", HBO FAMILY
+http://data.enics.cloud:9999/stream/iptv/hbofamily/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:15 group-title="IPTV" tvg-id="iptv/hbohits" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", HBO HITS
+http://data.enics.cloud:9999/stream/iptv/hbohits/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:16 group-title="IPTV" tvg-id="iptv/hbosignature" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", HBO SIGNATURE
+http://data.enics.cloud:9999/stream/iptv/hbosignature/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:17 group-title="IPTV" tvg-id="iptv/history" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", HISTORY
+http://data.enics.cloud:9999/stream/iptv/history/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:18 group-title="IPTV" tvg-id="iptv/ihm" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", I HEART MOVIE
+http://data.enics.cloud:9999/stream/iptv/ihm/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:18 group-title="IPTV" tvg-id="iptv/ihm" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", JEEPNEY TV
+http://data.enics.cloud:9999/stream/iptv/jeepneytv/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:19 group-title="IPTV" tvg-id="iptv/kapamilya" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", KAPAMILYA
+http://data.enics.cloud:9999/stream/iptv/kapamilya/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:20 group-title="IPTV" tvg-id="iptv/moonbug" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", MOONBUG
+http://data.enics.cloud:9999/stream/iptv/moonbug/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:21 group-title="IPTV" tvg-id="iptv/mptv" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", MPTV
+http://data.enics.cloud:9999/stream/iptv/mptv/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:22 group-title="IPTV" tvg-id="iptv/nbaph" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", NBA PH
+http://data.enics.cloud:9999/stream/iptv/nbaph/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:23 group-title="IPTV" tvg-id="iptv/nickelodeon" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", NICKELODEON
+http://data.enics.cloud:9999/stream/iptv/nickelodeon/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:24 group-title="IPTV" tvg-id="iptv/nickjr" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", NICKJR
+http://data.enics.cloud:9999/stream/iptv/nickjr/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:25 group-title="IPTV" tvg-id="iptv/pbarush" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", PBA RUSH
+http://data.enics.cloud:9999/stream/iptv/pbarush/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:26 group-title="IPTV" tvg-id="iptv/pbo" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", PBO
+http://data.enics.cloud:9999/stream/iptv/pbo/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:27 group-title="IPTV" tvg-id="iptv/ptv4" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", PTV 4
+http://data.enics.cloud:9999/stream/iptv/ptv4/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:28 group-title="IPTV" tvg-id="iptv/rockaction" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", ROCK ACTION
+http://data.enics.cloud:9999/stream/iptv/rockaction/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:29 group-title="IPTV" tvg-id="iptv/rptv" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", RPTV
+http://data.enics.cloud:9999/stream/iptv/rptv/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:30 group-title="IPTV" tvg-id="iptv/sari" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", SARI
+http://data.enics.cloud:9999/stream/iptv/sari/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:31 group-title="IPTV" tvg-id="iptv/thrill" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", THRILL
+http://data.enics.cloud:9999/stream/iptv/thrill/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:32 group-title="IPTV" tvg-id="iptv/tmc" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", TMC
+http://data.enics.cloud:9999/stream/iptv/tmc/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:33 group-title="IPTV" tvg-id="iptv/tv5" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", TV5
+http://data.enics.cloud:9999/stream/iptv/tv5/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478

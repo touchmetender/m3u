@@ -1,9 +1,5 @@
 #EXTM3U x-tvg-url=""
 
-#EXTINF:33 group-title="IPTV" tvg-id="iptv/tv5" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", TV5
-http://data.enics.cloud:9999/stream/iptv/tv5/master.m3u8?u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
-
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="GMA Pinoy TV" tvg-logo="" group-title="Local",GMA Pinoy TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/7c693236-e0c1-40a3-8bd0-bb25e43f5bfc/index.mpd
 

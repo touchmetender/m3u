@@ -1,17 +1,5 @@
 #EXTM3U x-tvg-url=""
 
-#EXTINF:-1 tvg-id="" tvg-name="GMA Pinoy TV" tvg-logo="" group-title="Local",GMA Pinoy TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/7c693236-e0c1-40a3-8bd0-bb25e43f5bfc/index.mpd
-
-#EXTINF:-2 tvg-id="" tvg-name="Kapamilya Channel" tvg-logo="lhNd191.png" group-title="Local",Kapamilya Channel
-https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
-
-#EXTINF:-3 tvg-id="" tvg-name="TV5" tvg-logo="Ddyfzrn.png" group-title="Local",TV5
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
-
-#EXTINF:-4 tvg-id="" tvg-name="A2Z" tvg-logo="43nZ2rv.png" group-title="Local",A2Z
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
-
 #EXTINF:-5 tvg-id="" tvg-name="TFC" tvg-logo="zZWj5vn.png" group-title="Local",TFC
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/7045bc3c-9492-42d4-974e-a3b217776e57/index.mpd
 
@@ -87,12 +75,6 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
 #EXTINF:-28 tvg-id="" tvg-name="Rock Entertainment" tvg-logo="DP36vpY.png" group-title="Entertainment",Rock Entertainment
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd
 
-#EXTINF:-29 tvg-id="" tvg-name="IBC13" tvg-logo="Org4yTu.png" group-title="Local",IBC13
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd_new.mpd
-
-#EXTINF:-30 tvg-id="" tvg-name="PTV4" tvg-logo="Ktl7qZt.png" group-title="Local",PTV4
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
-
 #EXTINF:-31 tvg-id="" tvg-name="National Geographic" tvg-logo="pLczqjP.png" group-title="Educational",National Geographic
 https://tr.live.cdn.cgates.lt/live/dash/561901/index.mpd
 
@@ -110,9 +92,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 
 #EXTINF:-36 tvg-id="" tvg-name="MYX" tvg-logo="VkYFPIe.png" group-title="Music",MYX
 https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/index.mpd
-
-#EXTINF:-37 tvg-id="" tvg-name="Front Row" tvg-logo="frrcw80.png" group-title="Music",Front Row
-https://jungotvstream.chanall.tv/jungotv/frontrow/stream.m3u8
 
 #EXTINF:-38 tvg-id="" tvg-name="Hallypop" tvg-logo="TocoWnz.png" group-title="Asian & Foreign",Hallypop
 https://jungotvstream.chanall.tv/jungotv/hallypop/stream.m3u8
@@ -135,26 +114,8 @@ https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:-44 tvg-id="" tvg-name="One Sports Plus" tvg-logo="rKCkaHh.png" group-title="Sports",One Sports Plus
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 
-#EXTINF:-45 tvg-id="" tvg-name="One PH" tvg-logo="syEhuvH.png" group-title="News",One PH
-https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
-
 #EXTINF:-46 tvg-id="" tvg-name="One Sports" tvg-logo="iyBXXpU.png" group-title="Sports",One Sports
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
-
-#EXTINF:-47 tvg-id="" tvg-name="One News" tvg-logo="bpRiu54.png" group-title="News",One News
-https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
-
-#EXTINF:-48 tvg-id="" tvg-name="CNN" tvg-logo="dNnUkkG.png" group-title="News",CNN
-https://cdn2.skygo.mn/live/disk1/CNNi/DASH-FTA/CNNi.mpd
-
-#EXTINF:-49 tvg-id="" tvg-name="Bloomberg" tvg-logo="pl4w2NN.png" group-title="News",Bloomberg
-https://cdn4.skygo.mn/live/disk1/Bloomberg/DASH-FTA/Bloomberg.mpd
-
-#EXTINF:-50 tvg-id="" tvg-name="BBC World News" tvg-logo="onQ2oxw.png" group-title="News",BBC World News
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_ott.mpd
-
-#EXTINF:-51 tvg-id="" tvg-name="Al Jazeera" tvg-logo="3n9d0wO.png" group-title="News",Al Jazeera
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
 
 #EXTINF:-52 tvg-id="" tvg-name="TAP TV" tvg-logo="KJaSftF.png" group-title="Entertainment",TAP TV
 https://cdn.ganbaruby23.xyz/stream/restream/taptvhd/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
@@ -206,9 +167,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
 
 #EXTINF:-68 tvg-id="" tvg-name="Crime+Investigation" tvg-logo="GowLsrU.png" group-title="Entertainment",Crime+Investigation
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
-
-#EXTINF:-69 tvg-id="" tvg-name="ABC Australia" tvg-logo="qQ33TVM.png" group-title="News",ABC Australia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd
 
 #EXTINF:-70 tvg-id="" tvg-name="SPOTV" tvg-logo="rAY5j3t.png" group-title="Sports",SPOTV
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd

@@ -1,0 +1,58 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:-1 tvg-id="cnninternational" tvg-name="CNN INTERNATIONAL" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="CONVERGE CHANNELS",CNN INTERNATIONAL
+http://136.239.159.20:6610/001/2/ch00000090990000001073/manifest.mpd
+
+#EXTINF:-1 tvg-id="celestialmoviespinoy" tvg-name="CELESTIAL MOVIES PINOY" tvg-logo="https://i.imgur.com/e5IZsv3.png" group-title="CONVERGE CHANNELS",CELESTIAL MOVIES PINOY
+http://136.239.159.20:6610/001/2/ch00000090990000001077/manifest.mpd
+
+#EXTINF:-1 tvg-id="pbo" tvg-name="PBO" tvg-logo="https://i.imgur.com/61fHpnW.png" group-title="CONVERGE CHANNELS",PBO
+http://136.239.173.10:6610/001/2/ch00000090990000001078/manifest.mpd
+
+#EXTINF:-1 tvg-id="vivacinema" tvg-name="VIVA CINEMA" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png/revision/latest?cb=20210804092616" group-title="CONVERGE CHANNELS",VIVA CINEMA
+http://136.239.158.18:6610/001/2/ch00000090990000001079/manifest.mpd
+
+#EXTINF:-1 tvg-id="tmc" tvg-name="TMC" tvg-logo="https://i.imgur.com/6mNCite.png" group-title="CONVERGE CHANNELS",TMC
+http://136.239.159.20:6610/001/2/ch00000090990000001080/manifest.mpd
+
+#EXTINF:-1 tvg-id="solarsports" tvg-name="SOLARSPORTS" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/eb/Solar_Sports_Logo_2022.png/revision/latest?cb=20211226131005" group-title="CONVERGE CHANNELS",SOLARSPORTS
+http://136.239.173.26:6610/001/2/ch00000090990000001081/manifest.mpd
+
+#EXTINF:-1 tvg-id="onesports" tvg-name="ONE SPORTS" tvg-logo="https://static.wikia.nocookie.net/russel/images/5/5a/One_Sports_%28TV_channel%29_3D_Logo_2020.png/revision/latest?cb=20230520142737" group-title="CONVERGE CHANNELS",ONE SPORTS
+http://136.239.158.18:6610/001/2/ch00000090990000001083/manifest.mpd
+
+#EXTINF:-1 tvg-id="ptv4" tvg-name="PTV4" tvg-logo="https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png/revision/latest?cb=20171019065428" group-title="CONVERGE CHANNELS",PTV4
+http://136.239.173.26:6610/001/2/ch00000090990000001086/manifest.mpd
+
+#EXTINF:-1 tvg-id="a2z" tvg-name="A2Z" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828" group-title="CONVERGE CHANNELS",A2Z
+http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd
+
+#EXTINF:-1 tvg-id="tv5" tvg-name="TV5" tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="CONVERGE CHANNELS",TV5
+http://136.239.158.30:6610/001/2/ch00000090990000001088/manifest.mpd
+
+#EXTINF:-1 tvg-id="ibc13" tvg-name="IBC 13" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/IBC_13_Logo_2012.png/revision/latest?cb=20170830080345" group-title="CONVERGE CHANNELS",IBC 13
+http://136.239.173.2:6610/001/2/ch00000090990000001089/manifest.mpd
+
+#EXTINF:-1 tvg-id="net25" tvg-name="NET 25" tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="CONVERGE CHANNELS",NET 25
+http://136.239.173.26:6610/001/2/ch00000090990000001090/manifest.mpd
+
+#EXTINF:-1 tvg-id="untv" tvg-name="UNTV" tvg-logo="https://static.wikia.nocookie.net/dxs/images/c/c3/UNTV_Public_Service_Logo_2022.png/revision/latest?cb=20221014202457" group-title="CONVERGE CHANNELS",UNTV
+http://136.239.173.10:6610/001/2/ch00000090990000001091/manifest.mpd
+
+#EXTINF:-1 tvg-id="warnertv" tvg-name="WARNER TV" tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="CONVERGE CHANNELS",WARNER TV
+http://136.239.158.18:6610/001/2/ch00000090990000001096/manifest.mpd
+
+#EXTINF:-1 tvg-id="fashiontv" tvg-name="FASHION TV" tvg-logo="https://i.imgur.com/Zd5zm7C.png" group-title="CONVERGE CHANNELS",FASHION TV
+http://136.158.97.2:6610/001/2/ch00000090990000001102/manifest.mpd
+
+#EXTINF:-1 tvg-id="channelnewsasia" tvg-name="CHANNEL NEWS ASIA" tvg-logo="https://i.imgur.com/vm9Z0uV.png" group-title="CONVERGE CHANNELS",CHANNEL NEWS ASIA
+http://136.239.173.26:6610/001/2/ch00000090990000001106/manifest.mpd
+
+#EXTINF:-1 tvg-id="arirang" tvg-name="ARIRANG" tvg-logo="http://115.146.176.131/images/14a646307c92e88856903295e6fa0d5c.png" group-title="CONVERGE CHANNELS",ARIRANG
+http://136.239.173.10:6610/001/2/ch00000090990000001107/manifest.mpd
+
+#EXTINF:-1 tvg-id="cinemax" tvg-name="CINEMAX" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="CONVERGE CHANNELS",CINEMAX
+http://136.239.173.10:6610/001/2/ch00000090990000001108/manifest.mpd
+
+#EXTINF:-1 tvg-id="abcaustralia" tvg-name="ABC AUSTRALIA" tvg-logo="https://i.imgur.com/kVVax44.png" group-title="CONVERGE CHANNELS",ABC AUSTRALIA
+http://136.239.173.26:6610/001/2/ch00000090990000001111/manifest.mpd
